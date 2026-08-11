@@ -1,5 +1,6 @@
-# Exercícios SENAI Segundo Semestre
 <img src="./senai-logo.png">
+# Exercícios SENAI Segundo Semestre
+
 Atividades feitas no segundo semestre na matéria de linguagens de marcação.
 ##
 
