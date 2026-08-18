@@ -7,7 +7,7 @@ Atividades feitas no segundo semestre na matéria de linguagens de marcação.
 
 ## Descrição do projeto
 
-Projeto feito para fazer um site simples com as tags aprendidas em HTML5.
+Repositório feito para fins educacionais para estudo de cores e estilização com CSS3 e HTML5 para estruturação de sites.
 
 ## Tecnologias utilizadas
 ```bash
